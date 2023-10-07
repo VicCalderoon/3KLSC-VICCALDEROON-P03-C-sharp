@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3KLSC-VICCALDEROON-P03-C sharp", "3KLSC-VICCALDEROON-P03-C sharp\3KLSC-VICCALDEROON-P03-C sharp.csproj", "{4277729D-7390-499D-B170-8221081AD329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4277729D-7390-499D-B170-8221081AD329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4277729D-7390-499D-B170-8221081AD329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4277729D-7390-499D-B170-8221081AD329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4277729D-7390-499D-B170-8221081AD329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2F2B90-A2E9-40A0-AF80-C9CB088759EA}
+	EndGlobalSection
+EndGlobal
